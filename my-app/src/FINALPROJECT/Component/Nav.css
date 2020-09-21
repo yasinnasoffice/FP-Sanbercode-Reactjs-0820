@@ -1,0 +1,36 @@
+ul{
+    list-style-type: none;
+    width: 170%;
+  }
+  
+  ul li{
+    display: inline;
+    margin-left: 10px;
+  }
+  
+  ul li a{
+    text-decoration: none;
+    color: #aaa;
+  }
+  
+  nav{
+    display: flex;
+    border-bottom: 1px solid black;
+  }
+  
+
+  ul.satu{
+    list-style-type: none;
+    width: 17%;
+  }
+  
+
+  ul.dua{
+    list-style-type: none;
+    width: 170%;
+  }
+
+  ul.dua li{
+    display: inline;
+    margin-left: 10px;
+  }
