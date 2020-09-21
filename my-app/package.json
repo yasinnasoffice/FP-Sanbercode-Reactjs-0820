@@ -40,4 +40,6 @@
   "devDependencies": {
     "babel-preset-stage-1": "^6.24.1"
   }
+  {"react-scripts build && echo '/* /index.html 200' | cat >build/_redirects "
+}
 }
